@@ -122,4 +122,6 @@ if($metodo == "DELETE"){
     echo json_encode([
         "Mensagem" => "Chamado excluído com sucesso"
     ]);
+
+    
 }

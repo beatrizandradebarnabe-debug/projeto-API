@@ -8,6 +8,8 @@ A API permite **cadastrar, consultar, atualizar e excluir chamados**, facilitand
 
 Os dados são enviados e recebidos no formato **JSON**.
 
+
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
